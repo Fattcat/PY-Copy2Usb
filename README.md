@@ -1,2 +1,2 @@
 # PY-Copy2Usb
-Code for copy specific and save files FROM PC to USB
+Code for copy specific files FROM PC and save to USB
